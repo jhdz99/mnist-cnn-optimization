@@ -30,6 +30,16 @@ This project showcases practical skills in **deep learning model development, pe
 - scikit-learn
 - Seaborn
 
+## Skills Demonstrated
+
+- Convolutional Neural Networks (CNNs)
+- Deep Learning with TensorFlow & Keras
+- Hyperparameter and architecture optimization
+- Model evaluation and performance analysis
+- Visualization of training metrics and neural network activations
+- Data preprocessing for image classification
+- Python-based machine learning workflows****
+
 ## Features
 
 - Baseline CNN vs optimized CNN comparison
