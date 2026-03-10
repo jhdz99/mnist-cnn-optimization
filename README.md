@@ -2,15 +2,24 @@
 
 A deep learning project focused on building and optimizing a Convolutional Neural Network (CNN) for handwritten digit classification on the MNIST dataset using TensorFlow and Keras.
 
-## Project Overview
+## Project Description
 
-This project demonstrates the full workflow of:
-- Building a baseline CNN for image classification
-- Improving performance through architecture and hyperparameter optimization
-- Evaluating model performance with classification metrics and confusion matrices
-- Visualizing training curves and intermediate layer activations for model diagnosis
+This project demonstrates the design, training, and optimization of a **Convolutional Neural Network (CNN)** for handwritten digit classification using the **MNIST dataset**.
 
-The optimized CNN achieved approximately **99%+ test accuracy** on MNIST.
+The goal was to improve performance over a baseline CNN by experimenting with network architecture and training strategies. The optimized model incorporates deeper convolutional layers, batch normalization, dropout regularization, and adaptive learning rate scheduling.
+
+To better understand model behavior, the project includes visualizations of:
+
+- Training and validation learning curves
+- Confusion matrix for classification performance
+- Sample digit predictions
+- Intermediate CNN layer activations
+
+These visualizations help diagnose overfitting, evaluate model accuracy, and interpret how convolutional layers extract features from handwritten digits.
+
+The optimized model achieves **~99% classification accuracy on the MNIST test dataset**, demonstrating the effectiveness of architecture tuning and training optimization.
+
+This project showcases practical skills in **deep learning model development, performance optimization, and ML visualization using Python and TensorFlow.**
 
 ## Tech Stack
 
